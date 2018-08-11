@@ -19,14 +19,21 @@ namespace audi_updater
 
         private void button1_Click(object sender, EventArgs e)
         {
-            openFileDialog1.ShowDialog();
-            string filePath = openFileDialog1.FileName;
+            try
+            {
+                openFileDialog1.ShowDialog();
+                string filePath = openFileDialog1.FileName;
 
-            textBox1.Text = filePath;
-            System.Diagnostics.Process.Start("javaws", filePath);
+                textBox1.Text = filePath;
+                System.Diagnostics.Process.Start("javaws", filePath);
 
-            Task.Delay(5000);
-            this.Close();
+                Task.Delay(5000);
+                this.Close();
+            }
+            catch
+            {
+                MessageBox.Show("Keine oder inkompatible Datei ausgewählt!");
+            }
         }
     }
 }
