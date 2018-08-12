@@ -13,8 +13,6 @@ C:\Users\michel\source\repos\audi-updater\audi-updater\bin\Debug\audi-updater.ap
 C:\Users\michel\source\repos\audi-updater\audi-updater\obj\Debug\audi-updater.exe.manifest
 C:\Users\michel\source\repos\audi-updater\audi-updater\obj\Debug\audi-updater.application
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\bin\Debug\audi-updater.exe.config
-C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\bin\Debug\audi-updater.exe.manifest
-C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\bin\Debug\audi-updater.application
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\bin\Debug\audi-updater.exe
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\bin\Debug\audi-updater.pdb
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.csprojAssemblyReference.cache
@@ -22,7 +20,5 @@ C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi_updat
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi_updater.Properties.Resources.resources
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.csproj.GenerateResource.cache
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.csproj.CoreCompileInputs.cache
-C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.exe.manifest
-C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.application
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.exe
 C:\Users\michel\Desktop\AudiNavigation-Updater\audi-updater\obj\Debug\audi-updater.pdb
